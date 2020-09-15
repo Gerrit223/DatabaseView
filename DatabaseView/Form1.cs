@@ -21,7 +21,7 @@ namespace DatabaseView
         {
             MessageBox.Show("Hello)");
             MessageBox.Show("Second commit");
-            MessageBox.Show("Joon commit");
+            MessageBox.Show("Joon commit updated");
         }
     }
 }
