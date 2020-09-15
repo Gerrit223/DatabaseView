@@ -23,7 +23,7 @@ namespace DatabaseView
             MessageBox.Show("Second commit");
             MessageBox.Show("Joon commit updated");
             MessageBox.Show("Add to GerritBranch");
-            MessageBox.Show("Eks n Hecker");
+            MessageBox.Show("Eks n Hecke1212121r");
         }
     }
 }
